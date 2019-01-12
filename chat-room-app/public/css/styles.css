@@ -1,0 +1,32 @@
+body { 
+    font-family: 'Coiny', cursive;
+    color: #1abc9c;
+}
+
+button {
+    border: none;
+    border-radius: 8px;
+    width: 100%; 
+    font-size: 25px;
+    color: white;
+    font-family: 'Coiny', cursive;
+}
+
+button:hover{
+    background-color: #16a085;
+}
+
+.formInput {
+    font-family: 'Roboto Condensed', sans-serif;
+    border: 2px solid #1abc9c;
+    border-radius: 8px;
+    padding: 10px; 
+    width: 100%; 
+    margin-bottom: 10px;
+    font-size: 20px;
+    outline:none;
+}
+
+.turquoiseBackground {
+    background-color: #1abc9c;
+}

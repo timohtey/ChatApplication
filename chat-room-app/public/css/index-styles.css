@@ -1,0 +1,9 @@
+#pleaseEnterNameForm {
+    text-align: center;
+    width: 350px;
+    height: 230px;
+	margin: 150px auto;
+    padding: 25px;
+    border-radius: 8px;
+    background-color: white;
+}
